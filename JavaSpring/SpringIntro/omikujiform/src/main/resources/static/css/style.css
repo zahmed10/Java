@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+	/* 
+* {
+	background-color: red;
+	
+	
+}
+	 */
+
+.form {
+	display: flex;
+	/* 
+	background-color: blue;
+	padding: 10px; 
+	*/
+	
+}
+
+.input-field {
+	display: flex;
+}
