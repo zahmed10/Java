@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+.top-container {
+	height: 400px;
+	width: 400px;
+	background-color: red;
+	display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
